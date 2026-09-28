@@ -1,7 +1,6 @@
 # RIP — Routing Information Protocol
 
 ## 1. What is RIP?
-![](../../../Pasted%20image%2020260928131755.png)
 
 **RIP (Routing Information Protocol)** is a dynamic routing protocol that allows routers to automatically learn and exchange routes to remote networks.
 

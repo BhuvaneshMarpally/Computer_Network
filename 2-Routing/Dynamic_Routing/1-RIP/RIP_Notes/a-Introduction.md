@@ -15,8 +15,7 @@ The name describes the information used to choose a route:
 - **Distance:** How far away is the destination? RIP measures this using **hop count**.
 - **Vector:** In which direction should the packet go? This is the **next-hop router**.
 
-
-![[../../../../Images/Pasted image 20260927212740.png]]
+![](../../../../Pasted%20image%2020260928132322.png)
 
 In every router the RIP  running at the port number 520, So whenever the other router want to send the routing table, it uses the UDP protocol and the port number 520.
 
