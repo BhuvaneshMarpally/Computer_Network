@@ -1,0 +1,1 @@
+![[../../../Images/Pasted image 20260927213527.png]]

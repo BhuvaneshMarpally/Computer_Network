@@ -22,7 +22,7 @@ Natural classful masks:
 |C|192–223|`/24` — `255.255.255.0`|
 
 
-![[Pasted image 20260928103649.png]]
+![[../../../../Images/Pasted image 20260928103649.png]]
 ### Example: why the same `/26` mask can work
 
 Suppose R1 receives an RIPv1 advertisement:
