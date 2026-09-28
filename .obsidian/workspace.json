@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Notes/1-Introduction.md",
+                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Introduction"
-            }
-          },
-          {
-            "id": "2f9ed958181fefe2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 21.08.39.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-27 21.08.39.excalidraw"
+              "title": "RIP_Readme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 21.08.39.excalidraw.md",
+                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Notes/RIPv1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 21.08.39.excalidraw.md",
+                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Notes/RIPv1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 21.08.39.excalidraw.md",
+                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Notes/RIPv1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,11 +189,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f9ed958181fefe2",
+  "active": "18494b042eb7a8ea",
   "lastOpenFiles": [
-    "Routing/Dynamic_Routing/1-RIP/RIP_Notes/1-Introduction.md",
+    "Routing/Dynamic_Routing/1-RIP/RIP_Notes/e-how multicast work.md",
+    "Routing/Dynamic_Routing/1-RIP/RIP_Notes/d-Commands.md",
+    "Routing/Dynamic_Routing/1-RIP/RIP_Notes/c-RIPv2.md",
+    "Routing/Dynamic_Routing/1-RIP/RIP_Notes/b-RIPv1.md",
+    "Routing/Dynamic_Routing/1-RIP/RIP_Notes/a-Introduction.md",
+    "Routing/Dynamic_Routing/1-RIP/RIP_Readme.md",
+    "Pasted image 20260928103649.png",
+    "BASICS/TCP/TCP_Notes/Introduction.md",
+    "Pasted image 20260927213527.png",
+    "Pasted image 20260927213520.png",
+    "BASICS/TCP/TCP_Readme.md",
+    "BASICS/TCP/TCP_Notes",
+    "BASICS/TCP/Untitled.md",
+    "BASICS/TCP",
+    "BASICS",
+    "New folder",
+    "Pasted image 20260927212740.png",
+    "Pasted image 20260927212635.png",
     "Excalidraw/Drawing 2026-09-27 21.08.39.excalidraw.md",
-    "Excalidraw",
-    "Routing/Dynamic_Routing/1-RIP/RIP_Readme.md"
+    "Excalidraw"
   ]
 }
