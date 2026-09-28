@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Readme.md",
+                "file": "Routing/Dynamic_Routing/1-RIP/RIP_Notes/b-RIPv1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RIP_Readme"
+              "title": "b-RIPv1"
             }
           }
         ]
@@ -191,12 +191,12 @@
   },
   "active": "18494b042eb7a8ea",
   "lastOpenFiles": [
+    "Routing/Dynamic_Routing/1-RIP/RIP_Readme.md",
     "Routing/Dynamic_Routing/1-RIP/RIP_Notes/e-how multicast work.md",
     "Routing/Dynamic_Routing/1-RIP/RIP_Notes/d-Commands.md",
     "Routing/Dynamic_Routing/1-RIP/RIP_Notes/c-RIPv2.md",
     "Routing/Dynamic_Routing/1-RIP/RIP_Notes/b-RIPv1.md",
     "Routing/Dynamic_Routing/1-RIP/RIP_Notes/a-Introduction.md",
-    "Routing/Dynamic_Routing/1-RIP/RIP_Readme.md",
     "Pasted image 20260928103649.png",
     "BASICS/TCP/TCP_Notes/Introduction.md",
     "Pasted image 20260927213527.png",

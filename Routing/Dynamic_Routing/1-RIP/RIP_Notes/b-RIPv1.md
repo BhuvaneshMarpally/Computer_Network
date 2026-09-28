@@ -20,6 +20,8 @@ Natural classful masks:
 |A|1–126|`/8` — `255.0.0.0`|
 |B|128–191|`/16` — `255.255.0.0`|
 |C|192–223|`/24` — `255.255.255.0`|
+
+
 ![[Pasted image 20260928103649.png]]
 ### Example: why the same `/26` mask can work
 
