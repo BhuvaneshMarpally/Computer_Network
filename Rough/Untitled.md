@@ -9,7 +9,7 @@ ICMP (Internet Control Message Protocol) is a *network-layer* control *protocol*
 ```
 
 
->- IPv4 protocol number: 1
+> -IPv4 protocol number: 1
 >- IPv6 protocol number: 58 (ICMPv6)
 >- Transport protocol: Neither TCP nor UDP
 >- Common utility: `ping`
@@ -158,3 +158,5 @@ sudo tcpdump -ni any icmp
 Topic progress: ICMP introduction, packet fields and sizes, payload, request/reply workflow, error reporting, and basic troubleshooting are covered.
 
 Next topic: ICMP in depth — `ping` packet analysis in Wireshark, TTL behavior, and how `traceroute` uses ICMP Time Exceeded messages.
+
+![[Pasted image 20261019210633.png]]
