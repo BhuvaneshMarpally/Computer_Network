@@ -28,7 +28,7 @@ ICMP helps report certain conditions, such as:
 - Port unreachable (for applicable UDP traffic).
 - Time-to-live (TTL) expired.
 - Invalid IP header parameters.
-- Successful reachability checks using Echo Request and Echo Reply.
+- Successful reachability checks using Echo Request and Echo Reply. 
 
 Important: ICMP reports many network conditions, but it does not guarantee delivery, repair connectivity, or report every packet loss.
 
