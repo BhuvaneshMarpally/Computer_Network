@@ -38,6 +38,7 @@ An ICMP message is carried inside an IP packet. For IPv4, the IP header identifi
 
 Echo Request / Echo Reply format
 
+
 ![[Pasted image 20261019195121.png|670]]
 
 | Field           | Size              | Function                                  |
